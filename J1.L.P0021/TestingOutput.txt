@@ -1,0 +1,1232 @@
+run:
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+a
+Only accept valid choice number!
+
+Only accept valid choice number!
+9
+Only accept valid choice number from 1 to 5!
+-1
+Only accept valid choice number from 1 to 5!
+0
+Only accept valid choice number from 1 to 5!
+2.3
+Only accept valid choice number!
+4
+Student list is empty!
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+Student list is empty!
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+2
+Student list is empty!
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Enter ID: 
+Input value must not be empty!
+Enter ID: 1
+Enter name: Alex
+Enter semester: 2
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: a
+Only accept valid choice number!
+Your choice: 
+Only accept valid choice number!
+Your choice: 9
+Only accept valid choice number from 1 to 3!
+Your choice: -1
+Only accept valid choice number from 1 to 3!
+Your choice: 0
+Only accept valid choice number from 1 to 3!
+Your choice: 2.3
+Only accept valid choice number!
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+Enter ID: 1
+This ID has already been using by student Alex (ID: 1) 
+Do you want to use it (Y - Yes/N - No): 
+Input value must not be empty!
+Do you want to use it (Y - Yes/N - No): a
+Input not matches yes or no format requirement!
+Do you want to use it (Y - Yes/N - No): 1
+Input not matches yes or no format requirement!
+Do you want to use it (Y - Yes/N - No): n
+Input not matches yes or no format requirement!
+Do you want to use it (Y - Yes/N - No): N
+Enter ID: 1
+This ID has already been using by student Alex (ID: 1) 
+Do you want to use it (Y - Yes/N - No): y
+Input not matches yes or no format requirement!
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 2
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 3
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+Enter ID: 1
+This ID has already been using by student Alex (ID: 1) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 2
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Alex (ID: 1) already registed Java for semester 2
+Create unsuccessfully!
+Enter ID: 1
+This ID has already been using by student Alex (ID: 1) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 3
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+Enter ID: 1
+This ID has already been using by student Alex (ID: 1) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 4
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+Enter ID: 5
+Enter name: Albert
+Enter semester: 2
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+Enter ID: 3
+Enter name: Gemma
+Enter semester: 8
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+Enter ID: 7
+Enter name: Bob
+Enter semester: 7
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+Enter ID: 12
+Enter name: John
+Enter semester: 5
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 3
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+Enter ID: 9
+Enter name: Peter
+Enter semester: 2
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+Enter ID: 2
+Enter name: Huck
+Enter semester: 1
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 3
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. 1
+Input not matches yes or no format requirement!
+Choose Y to continue, N to return main screen. 
+Input value must not be empty!
+Choose Y to continue, N to return main screen. n
+Input not matches yes or no format requirement!
+Choose Y to continue, N to return main screen. 2.3
+Input not matches yes or no format requirement!
+Choose Y to continue, N to return main screen. y
+Input not matches yes or no format requirement!
+Choose Y to continue, N to return main screen. Y
+Enter ID: 11
+Enter name: Marie
+Enter semester: 6
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. n
+Input not matches yes or no format requirement!
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. Y
+Enter ID: 8
+Enter name: Tom
+Enter semester: 5
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+2
+Enter whole/part of searching student name: w
+No student be found!
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+2
+Enter whole/part of searching student name: a
+   ID                Name  Semester    Course
+    5              Albert         2      Java
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    3               Gemma         8      .Net
+   11               Marie         6      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+2
+Enter whole/part of searching student name: ma
+   ID                Name  Semester    Course
+    3               Gemma         8      .Net
+   11               Marie         6      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+2
+Enter whole/part of searching student name: k
+   ID                Name  Semester    Course
+    2                Huck         1     C/C++
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 
+Input value must not be empty!
+Enter ID: as
+There is no student has this ID !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 89
+There is no student has this ID !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         4      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex         4      .Net
+Enter student row number: 5
+Only accept valid choice number from 1 to 4!
+Enter student row number: 2.3
+Only accept valid choice number!
+Enter student row number: 
+Only accept valid choice number!
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: a
+Input not matches update or delete format requirement!
+Do you want to update (U) or delete (D) student: 1
+Input not matches update or delete format requirement!
+Do you want to update (U) or delete (D) student: u
+Input not matches update or delete format requirement!
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex         4      .Net
+Enter ID: 1
+Enter semester: 22
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Update student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        22      Java
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        22      Java
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex        22      Java
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex        22      Java
+Enter ID: 1
+Enter semester: 2
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+These input information above is collided with another record !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        22      Java
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        22      Java
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex        22      Java
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex        22      Java
+Enter ID: 1
+Enter semester: 22
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Update student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        22      Java
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        22      Java
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex        22      Java
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex        22      Java
+Enter ID: 1
+Enter semester: 9
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Update student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         9      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex         9      .Net
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex         9      .Net
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex         9      .Net
+Enter ID: 1
+Enter semester: 33
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 3
+Update student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        33     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        33     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex        33     C/C++
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex        33     C/C++
+Enter ID: 11
+Enter semester: 6
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+These input information above is collided with another record !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        33     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+    1                Alex        33     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+         4    1                Alex        33     C/C++
+Enter student row number: 4
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex        33     C/C++
+Enter ID: 11
+Enter semester: 15
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 3
+Update student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+    1                Alex         2     C/C++
+    1                Alex         3      Java
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         2     C/C++
+         3    1                Alex         3      Java
+Enter student row number: 2
+Do you want to update (U) or delete (D) student: U
+(+) Updating for:
+	   ID                Name  Semester    Course
+	    1                Alex         2     C/C++
+Enter ID: 99
+Enter name: Stewie
+Enter semester: 88
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Update student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+    1                Alex         3      Java
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+    1                Alex         3      Java
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 1
+Row Number   ID                Name  Semester    Course
+         1    1                Alex         2      Java
+         2    1                Alex         3      Java
+Enter student row number: 2
+Do you want to update (U) or delete (D) student: D
+Remove student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+3
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+    2                Huck         1     C/C++
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+Enter ID: 2
+Row Number   ID                Name  Semester    Course
+         1    2                Huck         1     C/C++
+Do you want to update (U) or delete (D) student: D
+Remove student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+4
+           Gemma |       .Net | 1
+          Stewie |       .Net | 1
+             Tom |       .Net | 1
+           Marie |      C/C++ | 1
+           Marie |       .Net | 1
+           Peter |       Java | 1
+          Albert |       Java | 1
+            John |      C/C++ | 1
+            Alex |       Java | 1
+             Bob |       Java | 1
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. Y
+Enter ID: 9
+This ID has already been using by student Peter (ID: 9) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 5
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+    9               Peter         5      Java
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+4
+           Gemma |       .Net | 1
+          Stewie |       .Net | 1
+             Tom |       .Net | 1
+           Marie |      C/C++ | 1
+           Marie |       .Net | 1
+           Peter |       Java | 2
+          Albert |       Java | 1
+            John |      C/C++ | 1
+            Alex |       Java | 1
+             Bob |       Java | 1
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. Y
+Enter ID: 3
+This ID has already been using by student Gemma (ID: 3) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 7
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+    9               Peter         5      Java
+    3               Gemma         7      .Net
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+4
+           Gemma |       .Net | 2
+          Stewie |       .Net | 1
+             Tom |       .Net | 1
+           Marie |      C/C++ | 1
+           Marie |       .Net | 1
+           Peter |       Java | 2
+          Albert |       Java | 1
+            Alex |       Java | 1
+            John |      C/C++ | 1
+             Bob |       Java | 1
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. Y
+Enter ID: 1
+This ID has already been using by student Alex (ID: 1) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 9
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+    9               Peter         5      Java
+    3               Gemma         7      .Net
+    1                Alex         9      .Net
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+4
+           Gemma |       .Net | 2
+          Stewie |       .Net | 1
+             Tom |       .Net | 1
+           Marie |      C/C++ | 1
+            Alex |       .Net | 1
+           Marie |       .Net | 1
+           Peter |       Java | 2
+          Albert |       Java | 1
+            Alex |       Java | 1
+            John |      C/C++ | 1
+             Bob |       Java | 1
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. Y
+Enter ID: 9
+This ID has already been using by student Peter (ID: 9) 
+Do you want to use it (Y - Yes/N - No): Y
+Enter semester: 78
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 1
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+    9               Peter         5      Java
+    3               Gemma         7      .Net
+    1                Alex         9      .Net
+    9               Peter        78      Java
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+4
+           Gemma |       .Net | 2
+          Stewie |       .Net | 1
+             Tom |       .Net | 1
+           Marie |      C/C++ | 1
+            Alex |       .Net | 1
+           Marie |       .Net | 1
+           Peter |       Java | 3
+          Albert |       Java | 1
+            Alex |       Java | 1
+            John |      C/C++ | 1
+             Bob |       Java | 1
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+1
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. Y
+Enter ID: 123
+Enter name: Stewie
+Enter semester: 188
+Choose course: 
+	1. Java
+	2. .Net
+	3. C/C++
+Your choice: 2
+Create new student successfully !
+   ID                Name  Semester    Course
+    1                Alex         2      Java
+   99              Stewie        88      .Net
+   11               Marie        15     C/C++
+    5              Albert         2      Java
+    3               Gemma         8      .Net
+    7                 Bob         7      Java
+   12                John         5     C/C++
+    9               Peter         2      Java
+   11               Marie         6      .Net
+    8                 Tom         5      .Net
+    9               Peter         5      Java
+    3               Gemma         7      .Net
+    1                Alex         9      .Net
+    9               Peter        78      Java
+  123              Stewie       188      .Net
+Number of student is greater than 10.
+Do you want to continue (Y/N)?
+Choose Y to continue, N to return main screen. N
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).
+4
+           Gemma |       .Net | 2
+          Stewie |       .Net | 1
+             Tom |       .Net | 1
+           Marie |      C/C++ | 1
+            Alex |       .Net | 1
+           Marie |       .Net | 1
+           Peter |       Java | 3
+          Albert |       Java | 1
+            Alex |       Java | 1
+          Stewie |       .Net | 1
+            John |      C/C++ | 1
+             Bob |       Java | 1
+WELCOME TO STUDENT MANAGEMENT
+  	1. Create
+  	2. Find and Sort
+  	3. Update/Delete
+  	4. Report
+  	5. Exit
+(Please choose 1 to Create, 2 to Find and Sort, 3 to Update/Delete, 4 to Report and 5 to Exit program).

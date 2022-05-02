@@ -1,0 +1,302 @@
+run:
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+a
+Only accept valid choice number!
+
+Only accept valid choice number!
+9
+Only accept valid choice number from 1 to 4!
+0
+Only accept valid choice number from 1 to 4!
+-1
+Only accept valid choice number from 1 to 4!
+2.3
+Only accept valid choice number!
+3
+Task list is empty !
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+2
+Task list is empty !
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: 
+Input value must not be empty!
+Requirement Name: Dev Program
+Task Type: 
+Only accept valid choice number!
+Task Type: dsa
+Only accept valid choice number!
+Task Type: -1
+Only accept valid choice number from 1 to 4!
+Task Type: 2.3
+Only accept valid choice number!
+Task Type: 5
+Only accept valid choice number from 1 to 4!
+Task Type: 1
+Date: 
+Input value must not be empty!
+Date: 321
+Input not matches date format requirement!
+Date: asd
+Input not matches date format requirement!
+Date: 27/02/2022
+Input not matches date format requirement!
+Date: 29-02-2022
+Date not existed!
+Date: 12-31-2022
+Date not existed!
+Date: 14-03-2022
+From: da
+Just accept value in sequence 8.0, 8.5, 9.0, 9.5, ... , 16.5, 17.0, 17.5
+From: 
+Input could not be empty!
+From: 7.0
+Value must be in range from 8.0 to 17.5
+From: 18.0
+Value must be in range from 8.0 to 17.5
+From: 8
+Just accept value in sequence 8.0, 8.5, 9.0, 9.5, ... , 16.5, 17.0, 17.5
+From: 17.5
+To: 
+Input could not be empty!
+To: 8.0
+Plan from must less than or equals plan to !
+From: 8.0
+To: 17.5
+Assignee: 
+Input value must not be empty!
+Assignee: Dev
+Reviewer: 
+Input value must not be empty!
+Reviewer: Lead
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: Fix Bug
+Task Type: 1
+Date: 14-03-2022
+From: 8.0
+To: 12.5
+Assignee: Dev
+Reviewer: Lead
+Dev already has task collided with above input time!
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: Design App
+Task Type: 3
+Date: 13-04-2022
+From: 8.3
+Just accept value in sequence 8.0, 8.5, 9.0, 9.5, ... , 16.5, 17.0, 17.5
+From: 8.6
+Just accept value in sequence 8.0, 8.5, 9.0, 9.5, ... , 16.5, 17.0, 17.5
+From: 10.3
+Just accept value in sequence 8.0, 8.5, 9.0, 9.5, ... , 16.5, 17.0, 17.5
+From: 10..5
+Just accept value in sequence 8.0, 8.5, 9.0, 9.5, ... , 16.5, 17.0, 17.5
+From: 10.5
+To: 11.0
+Assignee: Designer
+Reviewer: Dev
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+3
+---------------------------------------- Task ----------------------------------------
+ID   Name             Task Type      Date           Time      Assignee       Reviewer       
+1    Dev Program      Code           14-03-2022     9.5       Dev            Lead           
+
+2    Design App       Design         13-04-2022     0.5       Designer       Dev            
+
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: Test Program
+Task Type: 2
+Date: 28-04-2022
+From: 16.5
+To: 17.5
+Assignee: Tester
+Reviewer: Dev
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+3
+---------------------------------------- Task ----------------------------------------
+ID   Name             Task Type      Date           Time      Assignee       Reviewer       
+1    Dev Program      Code           14-03-2022     9.5       Dev            Lead           
+
+2    Design App       Design         13-04-2022     0.5       Designer       Dev            
+
+3    Test Program     Test           28-04-2022     1.0       Tester         Dev            
+
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: Review App
+Task Type: 4
+Date: 30-06-2022
+From: 9.0
+To: 16.5
+Assignee: Client
+Reviewer: Lead
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+2
+------------ Del Task ------------
+ID: 9
+Task is not existed!
+ID: -1
+Only accept valid choice number from 1 to 2147483647!
+ID: 0
+Only accept valid choice number from 1 to 2147483647!
+ID: 2.3
+Only accept valid choice number!
+ID: 4
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+3
+---------------------------------------- Task ----------------------------------------
+ID   Name             Task Type      Date           Time      Assignee       Reviewer       
+1    Dev Program      Code           14-03-2022     9.5       Dev            Lead           
+
+2    Design App       Design         13-04-2022     0.5       Designer       Dev            
+
+3    Test Program     Test           28-04-2022     1.0       Tester         Dev            
+
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: Commit App
+Task Type: 29-05-2022
+Only accept valid choice number!
+Task Type: 1
+Date: 29-05-2022
+From: 9.5
+To: 16.5
+Assignee: Dev
+Reviewer: Lead
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+3
+---------------------------------------- Task ----------------------------------------
+ID   Name             Task Type      Date           Time      Assignee       Reviewer       
+1    Dev Program      Code           14-03-2022     9.5       Dev            Lead           
+
+2    Design App       Design         13-04-2022     0.5       Designer       Dev            
+
+3    Test Program     Test           28-04-2022     1.0       Tester         Dev            
+
+5    Commit App       Code           29-05-2022     7.0       Dev            Lead           
+
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+2
+------------ Del Task ------------
+ID: 5
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+1
+------------ Add Task ------------
+Requirement Name: Pull App
+Task Type: 1
+Date: 14-07-2022
+From: 14.5
+To: 17.0
+Assignee: Dev
+Reviewer: Teamate
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+3
+---------------------------------------- Task ----------------------------------------
+ID   Name             Task Type      Date           Time      Assignee       Reviewer       
+1    Dev Program      Code           14-03-2022     9.5       Dev            Lead           
+
+2    Design App       Design         13-04-2022     0.5       Designer       Dev            
+
+3    Test Program     Test           28-04-2022     1.0       Tester         Dev            
+
+6    Pull App         Code           14-07-2022     2.5       Dev            Teamate        
+
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+2
+------------ Del Task ------------
+ID: 1
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit
+3
+---------------------------------------- Task ----------------------------------------
+ID   Name             Task Type      Date           Time      Assignee       Reviewer       
+2    Design App       Design         13-04-2022     0.5       Designer       Dev            
+
+3    Test Program     Test           28-04-2022     1.0       Tester         Dev            
+
+6    Pull App         Code           14-07-2022     2.5       Dev            Teamate        
+
+========== Task program ==========
+  •	Add Task
+  •	Delete task
+  •	Display Task
+  •	exit

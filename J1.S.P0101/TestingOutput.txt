@@ -1,0 +1,607 @@
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 
+Only accept valid choice number!
+Your choice: fds
+Only accept valid choice number!
+Your choice: -1
+Only accept valid choice number from 1 to 6!
+Your choice: 99
+Only accept valid choice number from 1 to 6!
+Your choice: 5
+Employee list is empty!
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 4
+Employee list is empty!
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 3
+Employee list is empty!
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 2
+Employee list is empty!
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 1
+Enter employee's ID: 
+Only accept valid choice number!
+Enter employee's ID: gf
+Only accept valid choice number!
+Enter employee's ID: 0
+Only accept valid choice number from 1 to 2147483647!
+Enter employee's ID: 1
+Enter employee's first name: 
+Input value must not be empty!
+Enter employee's first name: Duc!
+Input not matches name format requirement!
+Enter employee's first name: Duc3
+Input not matches name format requirement!
+Enter employee's first name: Duc
+Enter employee's last name: Pham
+Enter employee's phone: 
+Input value must not be empty!
+Enter employee's phone: fdsff
+Input not matches phone format requirement!
+Enter employee's phone: -3213
+Input not matches phone format requirement!
+Enter employee's phone: 0356023968
+Enter employee's email: 
+Input value must not be empty!
+Enter employee's email: duc
+Input not matches email format requirement!
+Enter employee's email: 23
+Input not matches email format requirement!
+Enter employee's email: duc@d
+Input not matches email format requirement!
+Enter employee's email: duc@fkkk@
+Input not matches email format requirement!
+Enter employee's email: ducpham@jfjf@hhh
+Input not matches email format requirement!
+Enter employee's email: duc@pham.com.
+Input not matches email format requirement!
+Enter employee's email: duc@pham.com
+Enter employee's address: 
+Input value must not be empty!
+Enter employee's address: 56 Rue, Ville
+Enter employee's DOB: 
+Input value must not be empty!
+Enter employee's DOB: fggdfg
+Input not matches date format requirement!
+Enter employee's DOB: 4324
+Input not matches date format requirement!
+Enter employee's DOB: 31/02/2002
+Date not existed!
+Enter employee's DOB: 08/13/2002
+Date not existed!
+Enter employee's DOB: 12/12/2099
+Date must be before 15/02/2022
+Enter employee's DOB: 09/03/2002
+Enter employee's sex (F-Female/M-Male): m
+Input not matches sex format requirement!
+Enter employee's sex (F-Female/M-Male): 32
+Input not matches sex format requirement!
+Enter employee's sex (F-Female/M-Male): M
+Enter employee's salary: 
+Input could not be empty!
+Enter employee's salary: -fd
+Only accept valid double number!
+Enter employee's salary: -32
+Value must be in range from 0.0 to 1.7976931348623157E308
+Enter employee's salary: 34.gg45
+Only accept valid double number!
+Enter employee's salary: 9585.23
+Enter employee's agency: 
+Input value must not be empty!
+Enter employee's agency: HCMI
+Adding successful !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 1
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+Enter employee's ID: 1
+ID must not be collided!
+Enter employee's ID: 3
+Enter employee's first name: Ha
+Enter employee's last name: Tuan
+Enter employee's phone: 0908343483
+Enter employee's email: ha@tuan.vn
+Enter employee's address: 89 Street, City
+Enter employee's DOB: 09/12/2001
+Enter employee's sex (F-Female/M-Male): M
+Enter employee's salary: 9434.32
+Enter employee's agency: HNI
+Adding successful !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 1
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+Enter employee's ID: 3
+ID must not be collided!
+Enter employee's ID: 1
+ID must not be collided!
+Enter employee's ID: 9
+Enter employee's first name: Nhi
+Enter employee's last name: Van
+Enter employee's phone: 0395349349
+Enter employee's email: nhi@van.cm
+Enter employee's address: 12 Duong, Pho
+Enter employee's DOB: 28/12/1999
+Enter employee's sex (F-Female/M-Male): F
+Enter employee's salary: 122.3
+Enter employee's agency: DNI
+Adding successful !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 1
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+Enter employee's ID: 2
+Enter employee's first name: Tuan
+Enter employee's last name: Minh
+Enter employee's phone: 03245934328
+Input not matches phone format requirement!
+Enter employee's phone: 0343823943
+Enter employee's email: tuan@minh.cc
+Enter employee's address: 18 Tinh, Thanh
+Enter employee's DOB: 31/12/1997
+Enter employee's sex (F-Female/M-Male): M
+Enter employee's salary: 493.23
+Enter employee's agency: LisBee
+Adding successful !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 1
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+  2      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+Enter employee's ID: 12
+Enter employee's first name: Minh
+Enter employee's last name: Nguyen
+Enter employee's phone: 09832458328
+Input not matches phone format requirement!
+Enter employee's phone: 0938284912
+Enter employee's email: minh@nguyen.com.vn
+Enter employee's address: 84 Xa, Huyen
+Enter employee's DOB: 14/07/2006
+Enter employee's sex (F-Female/M-Male): F
+Enter employee's salary: 3234.54
+Enter employee's agency: Huyen Test
+Adding successful !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 2
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+  2      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+ 12      Minh         Nguyen     0938284912  minh@nguyen.com.vn             84 Xa, Huyen     14/07/2006    Female   3234.54Huyen Test
+
+Enter employee's ID: fd
+Only accept valid choice number!
+Enter employee's ID: 13
+Employee not existed!
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+  2      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+ 12      Minh         Nguyen     0938284912  minh@nguyen.com.vn             84 Xa, Huyen     14/07/2006    Female   3234.54Huyen Test
+
+Enter employee's ID: 2
+Updating menu for:
+(+)   2      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 1
+Enter employee's ID: 3
+ID must not be collided!
+Updating menu for:
+(+)   2      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 1
+Enter employee's ID: fd
+Only accept valid choice number!
+Enter employee's ID: 16
+Updating menu for:
+(+)  16      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 1
+Enter employee's ID: 
+Only accept valid choice number!
+Enter employee's ID: 15
+Updating menu for:
+(+)  15      Tuan           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 2
+Enter employee's firstname: 
+Input value must not be empty!
+Enter employee's firstname: Tien
+Updating menu for:
+(+)  15      Tien           Minh     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 3
+Enter employee's last name: Cao
+Updating menu for:
+(+)  15      Tien            Cao     0343823943        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 4
+Enter employee's phone: 
+Input value must not be empty!
+Enter employee's phone: 0982108998
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        tuan@minh.cc           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 5
+Enter employee's email: 
+Input value must not be empty!
+Enter employee's email: minh@tuan.vn
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        minh@tuan.vn           18 Tinh, Thanh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 6
+Enter employee's address: 
+Input value must not be empty!
+Enter employee's address: 29 Thanh, Tinh
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/12/1997      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 7
+Enter employee's DOB: 
+Input value must not be empty!
+Enter employee's DOB: 31/05/1984
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984      Male    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 8
+Enter employee's sex (F-Female/M-Male): F
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984    Female    493.23    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 9
+Enter employee's salary: 32.45
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984    Female     32.45    LisBee
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 10
+Enter employee's agency: 
+Input value must not be empty!
+Enter employee's agency: NHA
+Updating menu for:
+(+)  15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984    Female     32.45       NHA
+
+
+	 1. Update employee's ID
+	 2. Update employee's firstname
+	 3. Update employee's lastname
+	 4. Update employee's phone
+	 5. Update employee's email
+	 6. Update employee's address
+	 7. Update employee's DOB
+	 8. Update employee's sex
+	 9. Update employee's salary
+	10. Update employee's agency
+	11. Cancel
+Your choice: 11
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 3
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+ 15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984    Female     32.45       NHA
+
+ 12      Minh         Nguyen     0938284912  minh@nguyen.com.vn             84 Xa, Huyen     14/07/2006    Female   3234.54Huyen Test
+
+Enter employee's id: 12
+Removing employee successful!
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 1
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+ 15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984    Female     32.45       NHA
+
+Enter employee's ID: 8
+Enter employee's first name: Nguyen
+Enter employee's last name: Nhi
+Enter employee's phone: 0902894839
+Enter employee's email: nguyen@nhi.fr
+Enter employee's address: 47 Chi, Than
+Enter employee's DOB: 19/02/2003
+Enter employee's sex (F-Female/M-Male): M
+Enter employee's salary: 122.3
+Enter employee's agency: Thai
+Adding successful !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 4
+Enter employee's name: Kien
+Employee not existed !
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 4
+Enter employee's name: 
+Input value must not be empty!
+Enter employee's name: Nhi
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+  8    Nguyen            Nhi     0902894839       nguyen@nhi.fr             47 Chi, Than     19/02/2003      Male     122.3      Thai
+
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 5
+ ID Firstname       Lastname          Phone               Email                  Address            DOB       Sex    Salary    Agency
+ 15      Tien            Cao     0982108998        minh@tuan.vn           29 Thanh, Tinh     31/05/1984    Female     32.45       NHA
+
+  8    Nguyen            Nhi     0902894839       nguyen@nhi.fr             47 Chi, Than     19/02/2003      Male     122.3      Thai
+
+  9       Nhi            Van     0395349349          nhi@van.cm            12 Duong, Pho     28/12/1999    Female     122.3       DNI
+
+  3        Ha           Tuan     0908343483          ha@tuan.vn          89 Street, City     09/12/2001      Male   9434.32       HNI
+
+  1       Duc           Pham     0356023968        duc@pham.com            56 Rue, Ville     09/03/2002      Male   9585.23      HCMI
+
+Main menu:
+	1. Add employees
+	2. Update employees
+	3. Remove employees
+	4. Search employees
+	5. Sort employees by salary
+	6. Exit
+Your choice: 6

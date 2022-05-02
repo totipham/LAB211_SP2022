@@ -1,0 +1,401 @@
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:
+Values of choice must be the number
+Your choice:p
+Values of choice must be the number
+Your choice:2.3
+Values of choice must be the number
+Your choice:9
+Only accept valid number from 1 to 4!
+Your choice:-1
+Only accept valid number from 1 to 4!
+Your choice:1
+-------- Addition --------
+Enter Row Matrix 1:
+Values of row must be the number
+Enter Row Matrix 1:0
+Only accept valid number from 1 to 2147483647!
+Enter Row Matrix 1:d
+Values of row must be the number
+Enter Row Matrix 1:2.3
+Values of row must be the number
+Enter Row Matrix 1:3
+Enter Column Matrix 1:
+Values of column must be the number
+Enter Column Matrix 1:0
+Only accept valid number from 1 to 2147483647!
+Enter Column Matrix 1:f
+Values of column must be the number
+Enter Column Matrix 1:2.3
+Values of column must be the number
+Enter Column Matrix 1:2
+Enter Matrix1[1][1]:
+Values of matrix must be the number
+Enter Matrix1[1][1]:g
+Values of matrix must be the number
+Enter Matrix1[1][1]:2.3
+Values of matrix must be the number
+Enter Matrix1[1][1]:3
+Enter Matrix1[1][2]:4
+Enter Matrix1[2][1]:3
+Enter Matrix1[2][2]:6
+Enter Matrix1[3][1]:7
+Enter Matrix1[3][2]:5
+Enter Row Matrix 2:4
+Enter Column Matrix 2:2
+Both row & column must be same as the first matrix !
+Enter Row Matrix 2:r
+Values of row must be the number
+Enter Row Matrix 2:
+Values of row must be the number
+Enter Row Matrix 2:4.3
+Values of row must be the number
+Enter Row Matrix 2:5.3
+Values of row must be the number
+Enter Row Matrix 2:3
+Enter Column Matrix 2:6
+Both row & column must be same as the first matrix !
+Enter Row Matrix 2:5
+Enter Column Matrix 2:2
+Both row & column must be same as the first matrix !
+Enter Row Matrix 2:3
+Enter Column Matrix 2:2
+Enter Matrix2[1][1]:4
+Enter Matrix2[1][2]:6
+Enter Matrix2[2][1]:f
+Values of matrix must be the number
+Enter Matrix2[2][1]:3
+Enter Matrix2[2][2]:6
+Enter Matrix2[3][1]:4
+Enter Matrix2[3][2]:3
+--------- Result --------
+[3][4]
+[3][6]
+[7][5]
++
+[4][6]
+[3][6]
+[4][3]
+=
+[7][10]
+[6][12]
+[11][8]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:2
+----- Subtraction ------
+Enter Row Matrix 1:2
+Enter Column Matrix 1:f
+Values of column must be the number
+Enter Column Matrix 1:2
+Enter Matrix1[1][1]:0
+Enter Matrix1[1][2]:2.3
+Values of matrix must be the number
+Enter Matrix1[1][2]:
+Values of matrix must be the number
+Enter Matrix1[1][2]:f
+Values of matrix must be the number
+Enter Matrix1[1][2]:/
+Values of matrix must be the number
+Enter Matrix1[1][2]:2
+Enter Matrix1[2][1]:4
+Enter Matrix1[2][2]:6
+Enter Row Matrix 2:1
+Enter Column Matrix 2:2
+Both row & column must be same as the first matrix !
+Enter Row Matrix 2:2
+Enter Column Matrix 2:1
+Both row & column must be same as the first matrix !
+Enter Row Matrix 2:a
+Values of row must be the number
+Enter Row Matrix 2:2
+Enter Column Matrix 2:2
+Enter Matrix2[1][1]:3
+Enter Matrix2[1][2]:6
+Enter Matrix2[2][1]:4
+Enter Matrix2[2][2]:2
+--------- Result --------
+[0][2]
+[4][6]
+-
+[3][6]
+[4][2]
+=
+[-3][-4]
+[0][4]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:3
+-------- Multiplication -------
+Enter Row Matrix 1:2
+Enter Column Matrix 1:f
+Values of column must be the number
+Enter Column Matrix 1:
+Values of column must be the number
+Enter Column Matrix 1:d
+Values of column must be the number
+Enter Column Matrix 1:4
+Enter Matrix1[1][1]:
+Values of matrix must be the number
+Enter Matrix1[1][1]:-2
+Enter Matrix1[1][2]:3
+Enter Matrix1[1][3]:-5
+Enter Matrix1[1][4]:2
+Enter Matrix1[2][1]:5
+Enter Matrix1[2][2]:3
+Enter Matrix1[2][3]:f
+Values of matrix must be the number
+Enter Matrix1[2][3]:
+Values of matrix must be the number
+Enter Matrix1[2][3]:2
+Enter Matrix1[2][4]:1
+Enter Row Matrix 2:4
+Enter Column Matrix 2:5
+Enter Matrix2[1][1]:4
+Enter Matrix2[1][2]:2
+Enter Matrix2[1][3]:1
+Enter Matrix2[1][4]:4
+Enter Matrix2[1][5]:2
+Enter Matrix2[2][1]:1
+Enter Matrix2[2][2]:4
+Enter Matrix2[2][3]:5
+Enter Matrix2[2][4]:2
+Enter Matrix2[2][5]:4
+Enter Matrix2[3][1]:2
+Enter Matrix2[3][2]:4
+Enter Matrix2[3][3]:2
+Enter Matrix2[3][4]:1
+Enter Matrix2[3][5]:3
+Enter Matrix2[4][1]:4
+Enter Matrix2[4][2]:5
+Enter Matrix2[4][3]:2
+Enter Matrix2[4][4]:1
+Enter Matrix2[4][5]:4
+--------- Result --------
+[-2][3][-5][2]
+[5][3][2][1]
+*
+[4][2][1][4][2]
+[1][4][5][2][4]
+[2][4][2][1][3]
+[4][5][2][1][4]
+=
+[-7][-2][7][-5][1]
+[31][35][26][29][32]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:3
+-------- Multiplication -------
+Enter Row Matrix 1:1
+Enter Column Matrix 1:2
+Enter Matrix1[1][1]:5
+Enter Matrix1[1][2]:7
+Enter Row Matrix 2:5
+Enter Column Matrix 2:8
+Row must be same as the first matrix column !
+Enter Row Matrix 2:1
+Enter Column Matrix 2:2
+Row must be same as the first matrix column !
+Enter Row Matrix 2:3
+Enter Column Matrix 2:1
+Row must be same as the first matrix column !
+Enter Row Matrix 2:2
+Enter Column Matrix 2:4
+Enter Matrix2[1][1]:4
+Enter Matrix2[1][2]:6
+Enter Matrix2[1][3]:8
+Enter Matrix2[1][4]:-3
+Enter Matrix2[2][1]:5
+Enter Matrix2[2][2]:0
+Enter Matrix2[2][3]:3
+Enter Matrix2[2][4]:5
+--------- Result --------
+[5][7]
+*
+[4][6][8][-3]
+[5][0][3][5]
+=
+[55][30][61][20]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:1
+-------- Addition --------
+Enter Row Matrix 1:2
+Enter Column Matrix 1:3
+Enter Matrix1[1][1]:2
+Enter Matrix1[1][2]:3
+Enter Matrix1[1][3]:2
+Enter Matrix1[2][1]:a
+Values of matrix must be the number
+Enter Matrix1[2][1]:1
+Enter Matrix1[2][2]:2
+Enter Matrix1[2][3]:2
+Enter Row Matrix 2:2
+Enter Column Matrix 2:3
+Enter Matrix2[1][1]:1
+Enter Matrix2[1][2]:32
+Enter Matrix2[1][3]:3
+Enter Matrix2[2][1]:2
+Enter Matrix2[2][2]:21
+Enter Matrix2[2][3]:23
+--------- Result --------
+[2][3][2]
+[1][2][2]
++
+[1][32][3]
+[2][21][23]
+=
+[3][35][5]
+[3][23][25]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:2
+----- Subtraction ------
+Enter Row Matrix 1:3
+Enter Column Matrix 1:3
+Enter Matrix1[1][1]:1
+Enter Matrix1[1][2]:2
+Enter Matrix1[1][3]:3
+Enter Matrix1[2][1]:4
+Enter Matrix1[2][2]:5
+Enter Matrix1[2][3]:6
+Enter Matrix1[3][1]:7
+Enter Matrix1[3][2]:8
+Enter Matrix1[3][3]:9
+Enter Row Matrix 2:3
+Enter Column Matrix 2:3
+Enter Matrix2[1][1]:10
+Enter Matrix2[1][2]:11
+Enter Matrix2[1][3]:12
+Enter Matrix2[2][1]:13
+Enter Matrix2[2][2]:14
+Enter Matrix2[2][3]:15
+Enter Matrix2[3][1]:16
+Enter Matrix2[3][2]:17
+Enter Matrix2[3][3]:18
+--------- Result --------
+[1][2][3]
+[4][5][6]
+[7][8][9]
+-
+[10][11][12]
+[13][14][15]
+[16][17][18]
+=
+[-9][-9][-9]
+[-9][-9][-9]
+[-9][-9][-9]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:3
+-------- Multiplication -------
+Enter Row Matrix 1:3
+Enter Column Matrix 1:4
+Enter Matrix1[1][1]:2
+Enter Matrix1[1][2]:3
+Enter Matrix1[1][3]:4
+Enter Matrix1[1][4]:5
+Enter Matrix1[2][1]:1
+Enter Matrix1[2][2]:1
+Enter Matrix1[2][3]:1
+Enter Matrix1[2][4]:5
+Enter Matrix1[3][1]:1
+Enter Matrix1[3][2]:1
+Enter Matrix1[3][3]:1
+Enter Matrix1[3][4]:5
+Enter Row Matrix 2:4
+Enter Column Matrix 2:2
+Enter Matrix2[1][1]:2
+Enter Matrix2[1][2]:0
+Enter Matrix2[2][1]:0
+Enter Matrix2[2][2]:0
+Enter Matrix2[3][1]:0
+Enter Matrix2[3][2]:0
+Enter Matrix2[4][1]:0
+Enter Matrix2[4][2]:0
+--------- Result --------
+[2][3][4][5]
+[1][1][1][5]
+[1][1][1][5]
+*
+[2][0]
+[0][0]
+[0][0]
+[0][0]
+=
+[4][0]
+[2][0]
+[2][0]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:3
+-------- Multiplication -------
+Enter Row Matrix 1:3
+Enter Column Matrix 1:4
+Enter Matrix1[1][1]:2
+Enter Matrix1[1][2]:3
+Enter Matrix1[1][3]:4
+Enter Matrix1[1][4]:5
+Enter Matrix1[2][1]:1
+Enter Matrix1[2][2]:1
+Enter Matrix1[2][3]:1
+Enter Matrix1[2][4]:5
+Enter Matrix1[3][1]:1
+Enter Matrix1[3][2]:1
+Enter Matrix1[3][3]:1
+Enter Matrix1[3][4]:5
+Enter Row Matrix 2:4
+Enter Column Matrix 2:2
+Enter Matrix2[1][1]:0
+Enter Matrix2[1][2]:1000
+Enter Matrix2[2][1]:0
+Enter Matrix2[2][2]:100
+Enter Matrix2[3][1]:0
+Enter Matrix2[3][2]:10
+Enter Matrix2[4][1]:0
+Enter Matrix2[4][2]:10
+--------- Result --------
+[2][3][4][5]
+[1][1][1][5]
+[1][1][1][5]
+*
+[0][1000]
+[0][100]
+[0][10]
+[0][10]
+=
+[0][2390]
+[0][1160]
+[0][1160]
+=======Calculator program======
+1. Addition Matrix
+2. Subtraction Matrix
+3. Multiplication Matrix
+4. Quit
+Your choice:4
+BUILD SUCCESSFUL (total time: 14 minutes 0 seconds)

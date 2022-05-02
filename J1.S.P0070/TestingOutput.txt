@@ -1,0 +1,182 @@
+run:
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:
+Only accept integer number from 1 to 3!
+Please choice one option:a
+Only accept integer number from 1 to 3!
+Please choice one option:9
+Only accept integer number from 1 to 3!
+Please choice one option:-1
+Only accept integer number from 1 to 3!
+Please choice one option:2.3
+Only accept integer number from 1 to 3!
+Please choice one option:1
+So tai khoan: 
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: a
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: 1
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: aaaaaaaaaa
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: 123456789
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: -123456789
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: -0123456789
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: 0023456789
+Mat khau: 
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 1
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: a
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 12345678
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 123456789
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 1h34567
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: aaaaaaaaaaaaaaaaaaaaaaaa
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 11111111111111111111111111111111111111111
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 1h345678901234567890123456789012
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 1h34567890
+Captcha: e20dN
+Nhap 1 ky tu captcha: 
+Captcha sai
+Nhap 1 ky tu captcha: 1
+Captcha sai
+Nhap 1 ky tu captcha: z
+Captcha sai
+Nhap 1 ky tu captcha: 99OqFf
+Captcha sai
+Nhap 1 ky tu captcha: 99OqF
+Captcha sai
+Captcha: WuIG9
+Nhap 1 ky tu captcha: WuIG9
+Sai ten dang nhap hoac mat khau!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:1
+So tai khoan: a
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: aaaaaaaaaa
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: 123456789
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: 0123456789
+Mat khau: 1
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 12345678
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: aaaaaaaa
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 11111111111111111111111111111111
+Mat khau phai trong khoang 8-31 ky tu va phai chua ky tu va so
+Mat khau: 123456ab
+Captcha: f4vwL
+Nhap 1 ky tu captcha: jLX05
+Captcha sai
+Captcha: CI3nw
+Nhap 1 ky tu captcha: CI3nw
+Dang nhap thanh cong!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:1
+So tai khoan: 16282828
+So tai khoan phai la 1 so va phai co 10 chu so
+So tai khoan: 1628162828
+Mat khau: weareone2
+Captcha: 4Xs84
+Nhap 1 ky tu captcha: 4Xs84
+Dang nhap thanh cong!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:1
+So tai khoan: 2022202222
+Mat khau: 2000plus22
+Captcha: 6Lv80
+Nhap 1 ky tu captcha: 6Lv80
+Sai ten dang nhap hoac mat khau!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:2
+Account number: 
+Account number must is a number and must have 10 digits
+Account number: a
+Account number must is a number and must have 10 digits
+Account number: aaaaaaaaaa
+Account number must is a number and must have 10 digits
+Account number: 123456789
+Account number must is a number and must have 10 digits
+Account number: 
+Account number must is a number and must have 10 digits
+Account number: 0123456789
+Password: 1
+Password must be between 8 and 31 characters and must be alphanumeric
+Password: 12345678
+Password must be between 8 and 31 characters and must be alphanumeric
+Password: aaaaaaaa
+Password must be between 8 and 31 characters and must be alphanumeric
+Password: 111111111111111111111111111
+Password must be between 8 and 31 characters and must be alphanumeric
+Password: 123456ab
+Captcha incorrect: dXi0G
+Enter a Captcha incorrect characters: H9MOA
+Captcha incorrect
+Captcha incorrect: u4B7i
+Enter a Captcha incorrect characters: u4B7i
+Login successful!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:2
+Account number: 1628162828
+Password: weareone2
+Captcha incorrect: F4UjY
+Enter a Captcha incorrect characters: F4UjY
+Login successful!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:2
+Account number: 123454321
+Account number must is a number and must have 10 digits
+Account number: 1234543210
+Password: 12345678h
+Captcha incorrect: A4q6T
+Enter a Captcha incorrect characters: A4q6T
+Invalid username or password!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:2
+Account number: 2202202222
+Password: 2000plus22
+Captcha incorrect: Y1giX
+Enter a Captcha incorrect characters: Y1giX
+Login successful!
+-------Login Program-------
+1. Vietnamese
+2. English
+3. Exit
+Please choice one option:3
+BUILD SUCCESSFUL (total time: 13 minutes 10 seconds)
